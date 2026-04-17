@@ -1,7 +1,58 @@
 body {
-    background-color: burlywood;
+    background-color: #1a1a1a;
+    color: white;
 }
 
 .texto_centrado {
     text-align: center;
 }
+
+
+.imagen_centrada {
+    display: block;
+    margin: 0 auto;
+}
+
+
+hr {
+    border-color: #8B0000;
+}
+
+.album {
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin: 5%;
+}
+
+button {
+    background-color: #8B0000;
+    padding: 2% 5%;
+    border: none;
+}
+
+.boton_home {
+    background-color: #8B0000;
+    padding: 1% 2%;
+    border: none;
+}
+
+button a {
+    color:white ;
+    text-decoration: none;
+}
+
+.boton_home {
+    background-color: black;
+    padding: 1% 2%;
+    border: none;
+}
+
+.c1 {
+    background-color:#8B0000; 
+    margin: 10px 15px 20px 30px;
+    padding: 3px 3px 3px 3px;
+    border: 5px solid #8B0000;
+    border-radius: 3px;
+}
+
